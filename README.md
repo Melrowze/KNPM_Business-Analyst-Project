@@ -22,4 +22,4 @@ Design mockup interface and export them as png files
 •	Take points from more than 1 options from the above.
 
 
-You can send the whole material as zip file by email putting Analyst Assessment as subject.
+
