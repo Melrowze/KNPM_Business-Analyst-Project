@@ -1,35 +1,35 @@
 # KNPM Product Development Project: Building a Comprehensive Project Management Tool"
 
 ## Overview
-
+---
 Welcome to the presentation of our Project Management Tool project! In this project, we aimed to develop a comprehensive tool that enables efficient project management, similar to popular platforms like JIRA, Trello, Asana, or Monday. Our tool is designed to streamline project planning, tracking, and collaboration, ultimately enhancing productivity and success.
 
 ## Key Components
 
 ### Requirements Identification
-
+---
 We began by conducting thorough research and engaging with stakeholders to identify the key requirements for our project management tool. These requirements encompassed various aspects such as task management, team collaboration, progress tracking, and reporting.
 
 ### User Stories
-
+---
 Based on the identified requirements, we crafted detailed user stories that describe the desired functionality and features of our tool from the perspective of end users. These user stories served as a roadmap for development, guiding the design and implementation process.
 
 [KNPM User_Stories.pdf](https://github.com/Melrowze/KNPM/files/15128195/KNPM.User_Stories.pdf)
 
 ### Database Design
-
+---
 To support the functionality of our project management tool, we designed a robust database using Entity-Relationship (ER) diagrams. The database schema was carefully crafted to efficiently store and retrieve project-related data, ensuring data integrity and scalability.
 
 ![KNPM_Database](https://github.com/Melrowze/KNPM/assets/44920093/362bc068-7240-4260-b2d4-2850a2e3b5e7)
 
 ### UML Activity Diagram
-
+---
 ![Activity Diagram](https://github.com/Melrowze/KNPM/assets/44920093/218c45fc-9d32-4e25-ae87-9a1ee6cbe9c5)
 
 In addition to database design, we created UML activity diagrams to visualize the flow of activities and processes within our project management tool. These diagrams provided insights into how users interact with the system and navigate through different functionalities.
 
 ### SQL Queries
-
+---
 To demonstrate the functionality of our database and its interaction with the project management tool, we developed a set of SQL queries for various entities such as tasks, projects, users, and teams. These queries enable data manipulation, retrieval, and reporting, facilitating seamless integration with the tool.
 
 ```sql
@@ -108,7 +108,7 @@ CREATE TABLE "Assignment" (
 ```
 
 ## Conclusion
-
+---
 Our Project Management Tool project represents a comprehensive effort to develop a versatile and user-friendly platform for effective project management. By leveraging requirements analysis, user-centric design, database modeling, and SQL query development, we have created a solution that empowers teams to collaborate efficiently and achieve their project goals.
 
 Thank you for your attention, and we look forward to showcasing our tool in action!
