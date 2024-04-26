@@ -1,10 +1,11 @@
 ## KNPM Product Development Project: Building a Simple Project Management Tool"
-
+![daria-nepriakhina-zoCDWPuiRuA-unsplash](https://github.com/Melrowze/KNPM/assets/44920093/2805f5a3-ba7c-4d71-8e59-a9c5f7d6d66e)
 ### Overview
+---
 Welcome to the presentation of our Project Management Tool project! In this project, we aimed to develop a comprehensive tool that enables efficient project management, similar to popular platforms like JIRA, Trello, Asana, or Monday. Our tool is designed to streamline project planning, tracking, and collaboration, ultimately enhancing productivity and success.
 
 ### Key Components
-
+---
 ### Requirements Identification
 ---
 We began by conducting thorough research and engaging with stakeholders to identify the key requirements for our project management tool. These requirements encompassed various aspects such as task management, team collaboration, progress tracking, and reporting.
