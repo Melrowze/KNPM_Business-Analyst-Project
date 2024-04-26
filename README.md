@@ -7,7 +7,7 @@ This project aims to develop a simple tool that enables efficient project manage
 ### Key Components
 ---
 - [Requirements Identification](requirements-identification)
-- [[User Stories](user-stories)
+- [User Stories](user-stories)
 - [Database Design](database-design)
 - [UML Activity Diagram](UML-activity-diagram)
 - [SQL Queries](sql-queries)
