@@ -1,4 +1,4 @@
-## KNPM: Building a Simple Project Management Tool"
+## KNPM: Building a Simple Project Management Tool
 ![daria-nepriakhina-zoCDWPuiRuA-unsplash](https://github.com/Melrowze/KNPM/assets/44920093/2805f5a3-ba7c-4d71-8e59-a9c5f7d6d66e)
 ### Overview
 ---
