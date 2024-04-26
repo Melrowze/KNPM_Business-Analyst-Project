@@ -2,13 +2,13 @@
 ![daria-nepriakhina-zoCDWPuiRuA-unsplash](https://github.com/Melrowze/KNPM/assets/44920093/2805f5a3-ba7c-4d71-8e59-a9c5f7d6d66e)
 ### Overview
 ---
-In this project, the aim is to develop a comprehensive tool that enables efficient project management, similar to popular platforms like JIRA, Trello, Asana, or Monday. The tool is designed to streamline project planning, tracking, collaboration, and ultimately enhancing productivity and success.
+This project aims to develop a simple tool that enables efficient project management, similar to popular platforms like JIRA, Trello, Asana, or Monday. The tool is designed to streamline project planning, tracking, and collaboration, and ultimately enhance productivity and success.
 
 ### Key Components
 ---
 ### Requirements Identification
 ---
-Project began by conducting thorough research and engaging with stakeholders to identify the key requirements for the tool. These requirements encompassed various aspects such as task management, team collaboration, progress tracking, and reporting.
+The project began by conducting thorough research and engaging with stakeholders to identify the key requirements for the tool. These requirements encompassed various aspects such as task management, team collaboration, progress tracking, and reporting.
 
 ### User Stories
 ---
@@ -32,9 +32,9 @@ In addition to database design, I created a UML activity diagram to visualize th
 ---
 To demonstrate the functionality of the database and its interaction with the project management tool, I also developed a set of SQL queries for various entities such as users, roles, projects, teams, and assignments. These queries enable data manipulation, retrieval, and reporting, facilitating seamless integration with the tool.
 
-```sql
+```SQL
 
-Sql queries for identified entities
+SQL queries for identified entities
 
 User
 CREATE TABLE "User" (
@@ -109,6 +109,6 @@ CREATE TABLE "Assignment" (
 
 ## Conclusion
 ---
-The Project Management Tool project represents a comprehensive effort to develop a versatile and user-friendly platform for effective project management. By leveraging requirements analysis, user-centric design, database modeling, and SQL query development to create a solution that empowers teams to collaborate efficiently and achieve their project goals.
+The KNPM Project Management Tool project represents a comprehensive effort to develop a versatile and user-friendly platform for effective project management. It leveraged requirements analysis, user-centric design, database modelling, and SQL query development to create a solution that empowers teams to collaborate efficiently and achieve their project goals.
 
 Thank you for your attention!
