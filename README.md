@@ -5,7 +5,7 @@
 This project aims to develop a simple tool that enables efficient project management, similar to popular platforms like JIRA, Trello, Asana, or Monday. The tool is designed to streamline project planning, tracking, and collaboration, and ultimately enhance productivity and success.
 
 ### Key Components
----
+
 ### Requirements Identification
 ---
 The project began by conducting thorough research and engaging with stakeholders to identify the key requirements for the tool. These requirements encompassed various aspects such as task management, team collaboration, progress tracking, and reporting.
