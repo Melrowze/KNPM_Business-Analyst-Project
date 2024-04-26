@@ -1,4 +1,4 @@
-# KNPM Product Development Project: Building a Comprehensive Project Management Tool"
+# KNPM Product Development Project: Building a Simple Project Management Tool"
 ---
 ## Overview
 ---
