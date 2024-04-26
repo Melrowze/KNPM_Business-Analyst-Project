@@ -5,6 +5,7 @@
 This project aims to develop a simple tool that enables efficient project management, similar to popular platforms like JIRA, Trello, Asana, or Monday. The tool is designed to streamline project planning, tracking, and collaboration, and ultimately enhance productivity and success.
 
 ### Key Components
+---
 - [Requirements Identification](requirements-identification)
 - [[User Stories](user-stories)
 - [Database Design](database-design)
