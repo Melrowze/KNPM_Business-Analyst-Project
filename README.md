@@ -1,10 +1,9 @@
-# KNPM Product Development Project: Building a Simple Project Management Tool"
----
-## Overview
----
+## KNPM Product Development Project: Building a Simple Project Management Tool"
+
+### Overview
 Welcome to the presentation of our Project Management Tool project! In this project, we aimed to develop a comprehensive tool that enables efficient project management, similar to popular platforms like JIRA, Trello, Asana, or Monday. Our tool is designed to streamline project planning, tracking, and collaboration, ultimately enhancing productivity and success.
 
-## Key Components
+### Key Components
 
 ### Requirements Identification
 ---
@@ -24,9 +23,9 @@ To support the functionality of our project management tool, we designed a robus
 
 ### UML Activity Diagram
 ---
-![Activity Diagram](https://github.com/Melrowze/KNPM/assets/44920093/218c45fc-9d32-4e25-ae87-9a1ee6cbe9c5)
-
 In addition to database design, we created UML activity diagrams to visualize the flow of activities and processes within our project management tool. These diagrams provided insights into how users interact with the system and navigate through different functionalities.
+
+![Activity Diagram](https://github.com/Melrowze/KNPM/assets/44920093/218c45fc-9d32-4e25-ae87-9a1ee6cbe9c5)
 
 ### SQL Queries
 ---
